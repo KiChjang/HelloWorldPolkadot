@@ -1,6 +1,6 @@
 {
-  "short_name": "Substrate Front End",
-  "name": "Substrate Front End Template",
+  "short_name": "Polkadot Block Info",
+  "name": "Polkadot Block Info Viewer",
   "icons": [
     {
       "src": "favicon.ico",
