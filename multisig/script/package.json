@@ -1,0 +1,12 @@
+{
+  "name": "multisig-script",
+  "version": "0.0.1",
+  "description": "Script to execute a multisig transaction on a substrate blockchain node",
+  "main": "index.js",
+  "author": "Keith Yeung",
+  "license": "ISC",
+  "dependencies": {
+    "@polkadot/api": "^2.4.1",
+    "prompt-sync": "^4.2.0"
+  }
+}
